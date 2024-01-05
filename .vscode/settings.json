@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "longestIncreasingSubsequence",
+            "name": "Longest Increasing Subsequence"
+        },
+        {
+            "path": "someproject",
+            "name": "Some Project"
+        }
+        // Add more folders as needed for other projects
+    ]
+}
